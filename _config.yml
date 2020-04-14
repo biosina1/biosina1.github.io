@@ -1,0 +1,9 @@
+---
+exclude: ['README.markdown']
+permalink: ':title'
+pygments: true
+safe: false
+title: 'Carte'
+remote_theme : Wiredcraft/carte
+url: "https://nsh.github.io"
+baseurl: ""
